@@ -1,0 +1,209 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/zakaria_elmabrok/Desktop/ITEC400/All Materials in .NET 5/Source Code/28-Documenting API with Swagger/CompanyEmployees/Repository/Repository.csproj": {}
+  },
+  "projects": {
+    "/Users/zakaria_elmabrok/Desktop/ITEC400/All Materials in .NET 5/Source Code/28-Documenting API with Swagger/CompanyEmployees/Contracts/Contracts.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/zakaria_elmabrok/Desktop/ITEC400/All Materials in .NET 5/Source Code/28-Documenting API with Swagger/CompanyEmployees/Contracts/Contracts.csproj",
+        "projectName": "Contracts",
+        "projectPath": "/Users/zakaria_elmabrok/Desktop/ITEC400/All Materials in .NET 5/Source Code/28-Documenting API with Swagger/CompanyEmployees/Contracts/Contracts.csproj",
+        "packagesPath": "/Users/zakaria_elmabrok/.nuget/packages/",
+        "outputPath": "/Users/zakaria_elmabrok/Desktop/ITEC400/All Materials in .NET 5/Source Code/28-Documenting API with Swagger/CompanyEmployees/Contracts/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/zakaria_elmabrok/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "/Users/zakaria_elmabrok/Desktop/ITEC400/All Materials in .NET 5/Source Code/28-Documenting API with Swagger/CompanyEmployees/Entities/Entities.csproj": {
+                "projectPath": "/Users/zakaria_elmabrok/Desktop/ITEC400/All Materials in .NET 5/Source Code/28-Documenting API with Swagger/CompanyEmployees/Entities/Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.CodeAnalysis.FxCopAnalyzers": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.3.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.400/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/zakaria_elmabrok/Desktop/ITEC400/All Materials in .NET 5/Source Code/28-Documenting API with Swagger/CompanyEmployees/Entities/Entities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/zakaria_elmabrok/Desktop/ITEC400/All Materials in .NET 5/Source Code/28-Documenting API with Swagger/CompanyEmployees/Entities/Entities.csproj",
+        "projectName": "Entities",
+        "projectPath": "/Users/zakaria_elmabrok/Desktop/ITEC400/All Materials in .NET 5/Source Code/28-Documenting API with Swagger/CompanyEmployees/Entities/Entities.csproj",
+        "packagesPath": "/Users/zakaria_elmabrok/.nuget/packages/",
+        "outputPath": "/Users/zakaria_elmabrok/Desktop/ITEC400/All Materials in .NET 5/Source Code/28-Documenting API with Swagger/CompanyEmployees/Entities/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/zakaria_elmabrok/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.400/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/zakaria_elmabrok/Desktop/ITEC400/All Materials in .NET 5/Source Code/28-Documenting API with Swagger/CompanyEmployees/Repository/Repository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/zakaria_elmabrok/Desktop/ITEC400/All Materials in .NET 5/Source Code/28-Documenting API with Swagger/CompanyEmployees/Repository/Repository.csproj",
+        "projectName": "Repository",
+        "projectPath": "/Users/zakaria_elmabrok/Desktop/ITEC400/All Materials in .NET 5/Source Code/28-Documenting API with Swagger/CompanyEmployees/Repository/Repository.csproj",
+        "packagesPath": "/Users/zakaria_elmabrok/.nuget/packages/",
+        "outputPath": "/Users/zakaria_elmabrok/Desktop/ITEC400/All Materials in .NET 5/Source Code/28-Documenting API with Swagger/CompanyEmployees/Repository/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/zakaria_elmabrok/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "/Users/zakaria_elmabrok/Desktop/ITEC400/All Materials in .NET 5/Source Code/28-Documenting API with Swagger/CompanyEmployees/Contracts/Contracts.csproj": {
+                "projectPath": "/Users/zakaria_elmabrok/Desktop/ITEC400/All Materials in .NET 5/Source Code/28-Documenting API with Swagger/CompanyEmployees/Contracts/Contracts.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "System.Linq.Dynamic.Core": {
+              "target": "Package",
+              "version": "[1.2.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.400/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

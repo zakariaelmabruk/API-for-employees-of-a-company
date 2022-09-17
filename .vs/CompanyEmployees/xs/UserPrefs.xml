@@ -1,0 +1,71 @@
+﻿<Properties StartupConfiguration="{8980D1CF-20AB-488F-A809-A297D21DAE9A}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Repository/DataShaping/DataShaper.cs">
+    <Files>
+      <File FileName="Contracts/IRepositoryManager.cs" Line="1" Column="1" />
+      <File FileName="Entities/Configuration/CompanyConfiguration.cs" />
+      <File FileName="Entities/Configuration/EmployeeConfiguration.cs" />
+      <File FileName="Entities/Configuration/RoleConfiguration.cs" />
+      <File FileName="Entities/DataTransferObjects/CompanyDto.cs" />
+      <File FileName="Entities/DataTransferObjects/CompanyForCreationDto.cs" />
+      <File FileName="Entities/DataTransferObjects/CompanyForManipulationDto.cs" />
+      <File FileName="Entities/DataTransferObjects/CompanyForUpdateDto.cs" />
+      <File FileName="Entities/DataTransferObjects/EmployeeDto.cs" />
+      <File FileName="Entities/DataTransferObjects/EmployeeForCreationDto.cs" />
+      <File FileName="Entities/DataTransferObjects/EmployeeForManipulationDto.cs" />
+      <File FileName="Entities/DataTransferObjects/EmployeeForUpdateDto.cs" />
+      <File FileName="Entities/DataTransferObjects/UserForAuthenticationDto.cs" />
+      <File FileName="Entities/DataTransferObjects/UserForRegistrationDto.cs" />
+      <File FileName="Entities/LinkModels/Link.cs" />
+      <File FileName="Entities/LinkModels/LinkCollectionWrapper.cs" />
+      <File FileName="Entities/LinkModels/LinkResourceBase.cs" />
+      <File FileName="Entities/LinkModels/LinkResponse.cs" />
+      <File FileName="Entities/Models/Company.cs" />
+      <File FileName="Entities/Models/Employee.cs" />
+      <File FileName="Entities/Models/Entity.cs" />
+      <File FileName="Entities/Models/ShapedEntity.cs" />
+      <File FileName="Entities/Models/User.cs" />
+      <File FileName="Entities/RequestFeatures/EmployeeParameters.cs" />
+      <File FileName="Entities/RequestFeatures/MetaData.cs" />
+      <File FileName="Entities/RequestFeatures/PagedList.cs" />
+      <File FileName="Entities/RequestFeatures/RequestParameters.cs" />
+      <File FileName="Entities/RepositoryContext.cs" />
+      <File FileName="LoggerService/LoggerManager.cs" />
+      <File FileName="Repository/DataShaping/DataShaper.cs" Line="90" Column="1" />
+      <File FileName="Repository/Extensions/Utility/OrderQueryBuilder.cs" />
+      <File FileName="Repository/Extensions/RepositoryEmployeeExtensions.cs" />
+      <File FileName="Repository/CompanyRepository.cs" />
+      <File FileName="Repository/EmployeeRepository.cs" />
+      <File FileName="Repository/RepositoryBase.cs" />
+      <File FileName="Repository/RepositoryManager.cs" />
+      <File FileName="Entities/ErrorModel/ErrorDetails.cs" />
+      <File FileName="Contracts/IRepositoryBase.cs" />
+      <File FileName="Contracts/IDataShaper.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CompanyEmployees" expanded="True">
+            <Node name="Contracts" expanded="True" />
+            <Node name="Entities" expanded="True">
+              <Node name="Configuration" expanded="True" />
+              <Node name="DataTransferObjects" expanded="True" />
+              <Node name="RequestFeatures" expanded="True" />
+            </Node>
+            <Node name="Repository" expanded="True">
+              <Node name="DataShaping" expanded="True">
+                <Node name="DataShaper.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.CompanyEmployees PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
